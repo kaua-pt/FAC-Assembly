@@ -13,7 +13,7 @@ Este repositório é dedicado as listas de FAC do semestre 2022.2 do professor J
 
 Tecnologia utilizada neste repositório: 
 
-![Tecnologias](https://skillicons.dev/icons?i=assembly)
+  - Assembly
 
 ## ❗ Aviso
 
