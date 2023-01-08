@@ -10,7 +10,7 @@
         li $v0, 5
         syscall
         move $t0,$v0
-        li $t1,-1000000
+        li $t1,-2147483648
         li $t2,0 #t2 = contador do loop , se for igual a t0, ele encerra
 
     #loop e comparação

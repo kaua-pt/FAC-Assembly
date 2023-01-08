@@ -6,6 +6,7 @@
     syscall
     move $t0,$v0
 
+
     #ler segundo numero e mover variavel
     li $v0,5
     syscall
